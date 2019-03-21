@@ -1,14 +1,14 @@
 @import '_var.scss';
 
 body {
-	font-size: 10pt;
+	font-size: 100%;
 	color: $black;
 	font-family: $body-font-family;
 }
 
 p {
 	font-weight: normal;
-	font-size: 10pt;
+	font-size: inherit;
 	color: $black;
 }
 
@@ -41,55 +41,55 @@ h4 {
 
 .SectionHead {
 	font-weight: bolder;
-	font-size: 12pt;
+	font-size: 16px;
 	color: #060;
 	text-align: left;
 }
 
 .footer {
-	font-size: 8pt;
+	font-size: 11px;
 	color: $black;
 }
 
 .ArticleHead {
 	font-weight: bolder;
-	font-size: 20pt;
+	font-size: 27px;
 	color: #093;
 	text-align: left;
 }
 
 .ArticleText {
-	font-size: 10pt;
+	font-size: 13px;
 	color: $black;
 }
 
 .MenuComment {
-	font-size: 8pt;
+	font-size: 11px;
 	color: $black;
 	font-family: 'Times New Roman';
 }
 
 .MenuTitle {
 	font-weight: bolder;
-	font-size: 10pt;
+	font-size: 13px;
 	text-decoration: underline;
 }
 
 h3 {
 	font-weight: bolder;
-	font-size: 16pt;
+	font-size: 21px;
 	color: $blue;
 }
 
 .ArticleHighLight {
 	font-weight: bolder;
-	font-size: 12pt;
+	font-size: 16px;
 	color: #933;
 	FONT-STYLE: italic;
 }
 
 .ArticleTextSmall {
-	font-size: 8pt;
+	font-size: 11px;
 	color: $black;
 }
 
@@ -104,7 +104,7 @@ h3 {
 }
 
 .TimesItalicText {
-	font-size: 10pt;
+	font-size: 13px;
 	color: $black;
 	font-family: 'Times New Roman';
 }
