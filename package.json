@@ -10,5 +10,8 @@
 	"homepage": "https://github.com/nico-watine/greencare-plant-database#readme",
 	"dependencies": {
 		"uncss": "^0.16.2"
+	},
+	"devDependencies": {
+		"gulp": "^4.0.0"
 	}
 }
