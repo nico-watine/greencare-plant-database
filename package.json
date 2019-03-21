@@ -7,5 +7,8 @@
 	},
 	"author": "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)",
 	"license": "MIT",
-	"homepage": "https://github.com/nico-watine/greencare-plant-database#readme"
+	"homepage": "https://github.com/nico-watine/greencare-plant-database#readme",
+	"dependencies": {
+		"uncss": "^0.16.2"
+	}
 }
