@@ -9,29 +9,29 @@ body {
   font-size: 100%; }
 
 p {
-  font-size: inherit; }
+  font-size: 16px; }
 
 h1 {
   font-weight: bolder;
-  font-size: 24px;
+  font-size: 50px;
   color: #1779ba;
   line-height: normal !important;
   text-align: left; }
 
 h2 {
   font-weight: bolder;
-  font-size: 18px;
+  font-size: 38px;
   color: #1779ba;
   text-align: left; }
 
 h3 {
   font-weight: bolder;
-  font-size: 21px;
+  font-size: 28px;
   color: #1779ba; }
 
 h4 {
   font-weight: bolder;
-  font-size: 14px;
+  font-size: 21px;
   color: #1779ba;
   text-align: left; }
 

@@ -10,12 +10,14 @@ body {
 }
 
 p {
-	font-size: inherit;
+	// font-size: inherit;
+	font-size: $p;
 }
 
 h1 {
 	font-weight: bolder;
-	font-size: 24px;
+	// font-size: 24px;
+	font-size: $h1;
 	color: $blue;
 	line-height: normal !important;
 	text-align: left;
@@ -23,20 +25,23 @@ h1 {
 
 h2 {
 	font-weight: bolder;
-	font-size: 18px;
+	// font-size: 18px;
+	font-size: $h2;
 	color: $blue;
 	text-align: left;
 }
 
 h3 {
 	font-weight: bolder;
-	font-size: 21px;
+	// font-size: 21px;
+	font-size: $h3;
 	color: $blue;
 }
 
 h4 {
 	font-weight: bolder;
-	font-size: 14px;
+	// font-size: 14px;
+	font-size: $h4;
 	color: $blue;
 	text-align: left;
 }
