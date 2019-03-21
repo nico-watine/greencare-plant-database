@@ -1,0 +1,15 @@
+{
+	"name": "greencare-plant-database",
+	"description": "Simple database of the plants that Greencare uses and their care requirements",
+	"repository": {
+		"type": "git",
+		"url": "git+https://nico-watine@github.com/nico-watine/greencare-plant-database.git"
+	},
+	"author": "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)",
+	"license": "MIT",
+	"homepage": "https://github.com/nico-watine/greencare-plant-database#readme",
+	"devDependencies": {
+		"gulp": "^4.0.0",
+		"gulp-uncss": "^1.0.6"
+	}
+}
