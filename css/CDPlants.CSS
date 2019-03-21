@@ -1,12 +1,15 @@
 body {
-  font-size: 100%;
+  background: #fefefe;
+  font-family: Verdana, Arial, sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
   color: #0a0a0a;
-  font-family: Verdana, Arial, sans-serif; }
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 100%; }
 
 p {
-  font-weight: normal;
-  font-size: inherit;
-  color: #0a0a0a; }
+  font-size: inherit; }
 
 h1 {
   font-weight: bolder;

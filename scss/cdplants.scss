@@ -1,15 +1,18 @@
 @import '_var.scss';
 
 body {
-	font-size: 100%;
-	color: $black;
+	background: #fefefe;
 	font-family: $body-font-family;
+	font-weight: normal;
+	line-height: 1.5;
+	color: $black;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 100%;
 }
 
 p {
-	font-weight: normal;
 	font-size: inherit;
-	color: $black;
 }
 
 h1 {
