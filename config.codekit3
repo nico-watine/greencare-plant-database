@@ -17391,6 +17391,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/links.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/links.css",
+		"oF": 2,
+		"oS": 0,
+		"uL": 1
+		},
 	"/temperature/35-temp.html": {
 		"cB": 0,
 		"ft": 8192,
