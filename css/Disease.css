@@ -1,0 +1,54 @@
+BODY {
+	FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana, Arial, 'Times New Roman'
+}
+P {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana, Arial, 'Times New Roman'
+}
+H1 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 24px; COLOR: #000099; LINE-HEIGHT: normal! important; FONT-FAMILY: Verdana, Arial, 'Times New Roman'; TEXT-ALIGN: left
+}
+H2 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 18px; COLOR: #000099; FONT-FAMILY: Verdana, Arial, 'Times New Roman'; TEXT-ALIGN: left
+}
+H4 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 14px; COLOR: #000099; FONT-FAMILY: Verdana, Arial, 'Times New Roman'; TEXT-ALIGN: left
+}
+#footnote {
+	COLOR: black; FONT-FAMILY: Times New Roman, Arial
+}
+.SectionHead {
+	FONT-WEIGHT: bolder; FONT-SIZE: 12pt; COLOR: #006600; FONT-FAMILY: Verdana, Arial, 'Times New Roman'; TEXT-ALIGN: left
+}
+.footer {
+	FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: Verdana, Arial, 'Times New Roman'
+}
+.ArticleHead {
+	FONT-WEIGHT: bolder; FONT-SIZE: 20pt; COLOR: #009933; FONT-FAMILY: Verdana, Arial, 'Times New Roman'; TEXT-ALIGN: left
+}
+.ArticleText {
+	FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana, Arial, 'Times New Roman'
+}
+.MenuComment {
+	FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: Times New Roman
+}
+.MenuTitle {
+	FONT-WEIGHT: bolder; FONT-SIZE: 10pt; TEXT-DECORATION: underline
+}
+H3 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 16pt; COLOR: #000099; FONT-FAMILY: Verdana, Arial, 'Times New Roman'
+}
+.ArticleHighLight {
+	FONT-WEIGHT: bolder; FONT-SIZE: 12pt; COLOR: #993333; FONT-STYLE: italic; FONT-FAMILY: Verdana, Arial, 'Times New Roman'
+}
+.ArticleTextSmall {
+	FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: Verdana, Arial, 'Times New Roman'
+}
+.TextBlue {
+	COLOR: mediumblue; TEXT-DECORATION: none
+}
+.TextRed {
+	COLOR: plum; TEXT-DECORATION: none
+}
+.TimesItalicText {
+	FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana, Arial, 'Times New Roman'
+}

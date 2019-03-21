@@ -1,0 +1,12 @@
+A:active {
+	FONT-WEIGHT: bold; COLOR: #8c2021; FONT-FAMILY: Verdana, Arial, 'Times New Roman'; TEXT-DECORATION: none
+}
+A:link {
+	FONT-WEIGHT: bold; COLOR: #8c2021; FONT-FAMILY: Verdana, Arial, 'Times New Roman'; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-WEIGHT: bold; COLOR: blue; FONT-FAMILY: Verdana, Arial, 'Times New Roman'; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: darkblue; FONT-FAMILY: Verdana, Arial, 'Times New Roman'; TEXT-DECORATION: underline
+}
