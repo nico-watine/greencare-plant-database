@@ -5,124 +5,133 @@ body {
 	COLOR: black;
 	font-family: $body-font-family;
 }
+
+
 p {
 	FONT-WEIGHT: normal;
 	FONT-SIZE: 10pt;
 	COLOR: black;
-	font-family: $body-font-family;
 }
+
 h1 {
 	FONT-WEIGHT: bolder;
 	FONT-SIZE: 24px;
 	COLOR: #009;
 	LINE-HEIGHT: normal! important;
-	font-family: $body-font-family;
 	TEXT-ALIGN: left;
 }
+
 h2 {
 	FONT-WEIGHT: bolder;
 	FONT-SIZE: 18px;
 	COLOR: #009;
-	font-family: $body-font-family;
 	TEXT-ALIGN: left;
 }
+
 h4 {
 	FONT-WEIGHT: bolder;
 	FONT-SIZE: 14px;
 	COLOR: #009;
-	font-family: $body-font-family;
 	TEXT-ALIGN: left;
 }
+
 #footnote {
 	COLOR: black;
 	FONT-FAMILY: Times New Roman, Arial;
 }
+
 .SectionHead {
 	FONT-WEIGHT: bolder;
 	FONT-SIZE: 12pt;
 	COLOR: #060;
-	font-family: $body-font-family;
 	TEXT-ALIGN: left;
 }
+
 .footer {
 	FONT-SIZE: 8pt;
 	COLOR: black;
-	font-family: $body-font-family;
 }
+
 .ArticleHead {
 	FONT-WEIGHT: bolder;
 	FONT-SIZE: 20pt;
 	COLOR: #093;
-	font-family: $body-font-family;
 	TEXT-ALIGN: left;
 }
+
 .ArticleText {
 	FONT-SIZE: 10pt;
 	COLOR: black;
-	font-family: $body-font-family;
 }
+
 .MenuComment {
 	FONT-SIZE: 8pt;
 	COLOR: black;
 	FONT-FAMILY: Times New Roman;
 }
+
 .MenuTitle {
 	FONT-WEIGHT: bolder;
 	FONT-SIZE: 10pt;
 	TEXT-DECORATION: underline;
 }
+
 h3 {
 	FONT-WEIGHT: bolder;
 	FONT-SIZE: 16pt;
 	COLOR: #009;
-	font-family: $body-font-family;
 }
+
 .ArticleHighLight {
 	FONT-WEIGHT: bolder;
 	FONT-SIZE: 12pt;
 	COLOR: #933;
 	FONT-STYLE: italic;
-	font-family: $body-font-family;
 }
+
 .ArticleTextSmall {
 	FONT-SIZE: 8pt;
 	COLOR: black;
-	font-family: $body-font-family;
 }
+
 .TextBlue {
 	COLOR: mediumblue;
 	TEXT-DECORATION: none;
 }
+
 .TextRed {
 	COLOR: plum;
 	TEXT-DECORATION: none;
 }
+
 .TimesItalicText {
 	FONT-SIZE: 10pt;
 	COLOR: black;
 	font-family: 'Times New Roman';
 }
+
 a:active {
 	FONT-WEIGHT: bold;
 	COLOR: #8c2021;
-	font-family: $body-font-family;
 	TEXT-DECORATION: none;
 }
+
 a:link {
 	FONT-WEIGHT: bold;
 	COLOR: #8c2021;
-	font-family: $body-font-family;
 	TEXT-DECORATION: none;
 }
+
 a:visited {
 	FONT-WEIGHT: bold;
 	COLOR: blue;
-	font-family: $body-font-family;
 	TEXT-DECORATION: none;
 }
+
 a:hover {
 	FONT-WEIGHT: bold;
 	COLOR: darkblue;
 	font-family: $body-font-family;
 	TEXT-DECORATION: underline;
 }
+
