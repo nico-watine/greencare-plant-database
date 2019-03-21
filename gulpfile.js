@@ -1,13 +1,10 @@
 var gulp = require('gulp');
 var uncss = require('gulp-uncss');
-var nano = require('gulp-cssnano');
 
 gulp.task('default', function () {
-	return gulp.src('css/style.css')
+	return gulp.src('css/cdplants.css')
 		.pipe(uncss({
-			ignore: ['.js-nav-active .mask'],
-			html: ['http://nicos-mbp.local:5757/']
+			html: ['index.html', 'FamilyBotanical/*.html', 'genera/*.html', 'height/*.html', 'light/*.html', 'plants/*.html', 'temperature/*.html']
 		}))
-		.pipe(nano())
 		.pipe(gulp.dest('./css/opt'));
 });

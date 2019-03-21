@@ -1,0 +1,47 @@
+body {
+  FONT-SIZE: 10pt;
+  COLOR: black;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
+
+p {
+  FONT-WEIGHT: normal;
+  FONT-SIZE: 10pt;
+  COLOR: black;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
+
+h2 {
+  FONT-WEIGHT: bolder;
+  FONT-SIZE: 18px;
+  COLOR: #009;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
+  TEXT-ALIGN: left; }
+
+h3 {
+  FONT-WEIGHT: bolder;
+  FONT-SIZE: 16pt;
+  COLOR: #009;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
+
+a:active {
+  FONT-WEIGHT: bold;
+  COLOR: #8c2021;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
+  TEXT-DECORATION: none; }
+
+a:link {
+  FONT-WEIGHT: bold;
+  COLOR: #8c2021;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
+  TEXT-DECORATION: none; }
+
+a:visited {
+  FONT-WEIGHT: bold;
+  COLOR: blue;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
+  TEXT-DECORATION: none; }
+
+a:hover {
+  FONT-WEIGHT: bold;
+  COLOR: darkblue;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
+  TEXT-DECORATION: underline; }

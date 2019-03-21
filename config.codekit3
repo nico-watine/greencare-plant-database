@@ -82,6 +82,16 @@
 		"oF": 0,
 		"oS": 1
 		},
+	"/css/opt/cdplants.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/opt/cdplants-min.css",
+		"oF": 0,
+		"oS": 1
+		},
 	"/FamilyBotanical/AfricanViolet.html": {
 		"cB": 0,
 		"ft": 8192,
