@@ -1,33 +1,33 @@
-BODY {
+body {
   FONT-SIZE: 10pt;
   COLOR: black;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
-P {
+p {
   FONT-WEIGHT: normal;
   FONT-SIZE: 10pt;
   COLOR: black;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
-H1 {
+h1 {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 24px;
-  COLOR: #000099;
+  COLOR: #009;
   LINE-HEIGHT: normal !important;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-ALIGN: left; }
 
-H2 {
+h2 {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 18px;
-  COLOR: #000099;
+  COLOR: #009;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-ALIGN: left; }
 
-H4 {
+h4 {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 14px;
-  COLOR: #000099;
+  COLOR: #009;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-ALIGN: left; }
 
@@ -38,7 +38,7 @@ H4 {
 .SectionHead {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 12pt;
-  COLOR: #006600;
+  COLOR: #060;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-ALIGN: left; }
 
@@ -50,7 +50,7 @@ H4 {
 .ArticleHead {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 20pt;
-  COLOR: #009933;
+  COLOR: #093;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-ALIGN: left; }
 
@@ -69,16 +69,16 @@ H4 {
   FONT-SIZE: 10pt;
   TEXT-DECORATION: underline; }
 
-H3 {
+h3 {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 16pt;
-  COLOR: #000099;
+  COLOR: #009;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
 .ArticleHighLight {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 12pt;
-  COLOR: #993333;
+  COLOR: #933;
   FONT-STYLE: italic;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
@@ -100,25 +100,25 @@ H3 {
   COLOR: black;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
-A:active {
+a:active {
   FONT-WEIGHT: bold;
   COLOR: #8c2021;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-DECORATION: none; }
 
-A:link {
+a:link {
   FONT-WEIGHT: bold;
   COLOR: #8c2021;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-DECORATION: none; }
 
-A:visited {
+a:visited {
   FONT-WEIGHT: bold;
   COLOR: blue;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-DECORATION: none; }
 
-A:hover {
+a:hover {
   FONT-WEIGHT: bold;
   COLOR: darkblue;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman';
