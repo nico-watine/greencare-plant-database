@@ -1,0 +1,52 @@
+body {
+	background: #fefefe;
+	font-family: $body-font-family;
+	font-weight: normal;
+	line-height: 1.5;
+	color: $black;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 100%;
+}
+
+p {
+	font-size: inherit;
+}
+
+h1 {
+	font-weight: bolder;
+	font-size: 24px;
+	color: $blue;
+	line-height: normal !important;
+	text-align: left;
+}
+
+h2 {
+	font-weight: bolder;
+	font-size: 18px;
+	color: $blue;
+	text-align: left;
+}
+
+h3 {
+	font-weight: bolder;
+	font-size: 21px;
+	color: $blue;
+}
+
+h4 {
+	font-weight: bolder;
+	font-size: 14px;
+	color: $blue;
+	text-align: left;
+}
+
+a {
+	font-weight: bold;
+	color: $blue;
+
+	&:hover {
+		color: $blue-hover;
+		text-decoration: none;
+	}
+}
