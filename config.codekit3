@@ -52,16 +52,6 @@
 		"oAP": "/_ignores/greencare-plant-database.sublime-workspace",
 		"oF": 0
 		},
-	"/css/CDPlants.CSS": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/css/CDPlants-min.css",
-		"oF": 0,
-		"oS": 1
-		},
 	"/css/Disease.css": {
 		"aP": 1,
 		"bl": 0,
@@ -17364,6 +17354,19 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/scss/cdplants.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/cdplants.css",
+		"oF": 2,
+		"oS": 0,
+		"uL": 1
 		},
 	"/temperature/35-temp.html": {
 		"cB": 0,
