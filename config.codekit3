@@ -82,6 +82,16 @@
 		"oF": 0,
 		"oS": 1
 		},
+	"/css/opt/cdplants.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/opt/cdplants-min.css",
+		"oF": 0,
+		"oS": 1
+		},
 	"/FamilyBotanical/AfricanViolet.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1297,6 +1307,17 @@
 		"oA": 0,
 		"oAP": "/genera/Zamioculcas.html",
 		"oF": 0
+		},
+	"/gulpfile.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/gulpfile-min.js",
+		"oF": 1,
+		"sC": 0,
+		"tS": 0
 		},
 	"/height/PlantMedium.html": {
 		"cB": 0,
@@ -14858,6 +14879,28 @@
 		"oAP": "/light/MediumLight.html",
 		"oF": 0
 		},
+	"/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "/build/node_modules",
+		"oF": 0
+		},
+	"/package-lock.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/package-lock-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"/PlantAll.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -19341,7 +19384,7 @@
 		"quality": 100
 		},
 	"languageDefaultsJS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.js",
 		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
@@ -19350,7 +19393,7 @@
 		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 3,
+		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
