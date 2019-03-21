@@ -2,22 +2,21 @@
 
 body {
 	font-size: 10pt;
-	color: black;
+	color: $black;
 	font-family: $body-font-family;
 }
-
 
 p {
 	font-weight: normal;
 	font-size: 10pt;
-	color: black;
+	color: $black;
 }
 
 h1 {
 	font-weight: bolder;
 	font-size: 24px;
 	color: #009;
-	line-height: normal! important;
+	line-height: normal !important;
 	text-align: left;
 }
 
@@ -36,7 +35,7 @@ h4 {
 }
 
 #footnote {
-	color: black;
+	color: $black;
 	font-family: 'Times New Roman';
 }
 
@@ -49,7 +48,7 @@ h4 {
 
 .footer {
 	font-size: 8pt;
-	color: black;
+	color: $black;
 }
 
 .ArticleHead {
@@ -61,12 +60,12 @@ h4 {
 
 .ArticleText {
 	font-size: 10pt;
-	color: black;
+	color: $black;
 }
 
 .MenuComment {
 	font-size: 8pt;
-	color: black;
+	color: $black;
 	font-family: 'Times New Roman';
 }
 
@@ -91,7 +90,7 @@ h3 {
 
 .ArticleTextSmall {
 	font-size: 8pt;
-	color: black;
+	color: $black;
 }
 
 .TextBlue {
@@ -106,7 +105,7 @@ h3 {
 
 .TimesItalicText {
 	font-size: 10pt;
-	color: black;
+	color: $black;
 	font-family: 'Times New Roman';
 }
 
@@ -131,7 +130,6 @@ a:visited {
 a:hover {
 	font-weight: bold;
 	color: darkblue;
-	font-family: $body-font-family;
 	text-decoration: underline;
 }
 

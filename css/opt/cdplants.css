@@ -1,55 +1,48 @@
 body {
-  FONT-SIZE: 10pt;
-  COLOR: black;
-  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
+  font-size: 10pt;
+  color: black;
+  font-family: Verdana, Arial, sans-serif; }
 
 p {
-  FONT-WEIGHT: normal;
-  FONT-SIZE: 10pt;
-  COLOR: black;
-  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
+  font-weight: normal;
+  font-size: 10pt;
+  color: black; }
 
 h1 {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 24px;
-  COLOR: #009;
-  LINE-HEIGHT: normal !important;
-  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
-  TEXT-ALIGN: left; }
+  font-weight: bolder;
+  font-size: 24px;
+  color: #009;
+  line-height: normal !important;
+  text-align: left; }
 
 h2 {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 18px;
-  COLOR: #009;
-  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
-  TEXT-ALIGN: left; }
+  font-weight: bolder;
+  font-size: 18px;
+  color: #009;
+  text-align: left; }
 
 h3 {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 16pt;
-  COLOR: #009;
-  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
+  font-weight: bolder;
+  font-size: 16pt;
+  color: #009; }
 
 a:active {
-  FONT-WEIGHT: bold;
-  COLOR: #8c2021;
-  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
-  TEXT-DECORATION: none; }
+  font-weight: bold;
+  color: #8c2021;
+  text-decoration: none; }
 
 a:link {
-  FONT-WEIGHT: bold;
-  COLOR: #8c2021;
-  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
-  TEXT-DECORATION: none; }
+  font-weight: bold;
+  color: #8c2021;
+  text-decoration: none; }
 
 a:visited {
-  FONT-WEIGHT: bold;
-  COLOR: blue;
-  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
-  TEXT-DECORATION: none; }
+  font-weight: bold;
+  color: blue;
+  text-decoration: none; }
 
 a:hover {
-  FONT-WEIGHT: bold;
-  COLOR: darkblue;
-  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
-  TEXT-DECORATION: underline; }
+  font-weight: bold;
+  color: darkblue;
+  font-family: Verdana, Arial, sans-serif;
+  text-decoration: underline; }
