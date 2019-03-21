@@ -69,7 +69,6 @@ h3 {
 .ArticleHighLight {
   font-weight: bolder;
   font-size: 12pt;
-  color: #933;
   FONT-STYLE: italic; }
 
 .ArticleTextSmall {
@@ -81,7 +80,6 @@ h3 {
   text-decoration: none; }
 
 .TextRed {
-  color: plum;
   text-decoration: none; }
 
 .TimesItalicText {
@@ -93,10 +91,12 @@ a:active {
   font-weight: bold;
   text-decoration: none; }
 
-a:link {
+a {
   font-weight: bold;
   text-decoration: none;
   color: #1779ba; }
+  a:hover {
+    color: #1468a0; }
 
 a:visited {
   font-weight: bold;
