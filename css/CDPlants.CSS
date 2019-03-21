@@ -1,111 +1,111 @@
 body {
-  FONT-SIZE: 10pt;
-  COLOR: black;
+  font-size: 10pt;
+  color: black;
   font-family: Verdana, Arial, sans-serif; }
 
 p {
-  FONT-WEIGHT: normal;
-  FONT-SIZE: 10pt;
-  COLOR: black; }
+  font-weight: normal;
+  font-size: 10pt;
+  color: black; }
 
 h1 {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 24px;
-  COLOR: #009;
-  LINE-HEIGHT: normal !important;
-  TEXT-ALIGN: left; }
+  font-weight: bolder;
+  font-size: 24px;
+  color: #009;
+  line-height: normal !important;
+  text-align: left; }
 
 h2 {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 18px;
-  COLOR: #009;
-  TEXT-ALIGN: left; }
+  font-weight: bolder;
+  font-size: 18px;
+  color: #009;
+  text-align: left; }
 
 h4 {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 14px;
-  COLOR: #009;
-  TEXT-ALIGN: left; }
+  font-weight: bolder;
+  font-size: 14px;
+  color: #009;
+  text-align: left; }
 
 #footnote {
-  COLOR: black;
-  FONT-FAMILY: Times New Roman, Arial; }
+  color: black;
+  font-family: Times New Roman, Arial; }
 
 .SectionHead {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 12pt;
-  COLOR: #060;
-  TEXT-ALIGN: left; }
+  font-weight: bolder;
+  font-size: 12pt;
+  color: #060;
+  text-align: left; }
 
 .footer {
-  FONT-SIZE: 8pt;
-  COLOR: black; }
+  font-size: 8pt;
+  color: black; }
 
 .ArticleHead {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 20pt;
-  COLOR: #093;
-  TEXT-ALIGN: left; }
+  font-weight: bolder;
+  font-size: 20pt;
+  color: #093;
+  text-align: left; }
 
 .ArticleText {
-  FONT-SIZE: 10pt;
-  COLOR: black; }
+  font-size: 10pt;
+  color: black; }
 
 .MenuComment {
-  FONT-SIZE: 8pt;
-  COLOR: black;
-  FONT-FAMILY: Times New Roman; }
+  font-size: 8pt;
+  color: black;
+  font-family: Times New Roman; }
 
 .MenuTitle {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 10pt;
-  TEXT-DECORATION: underline; }
+  font-weight: bolder;
+  font-size: 10pt;
+  text-decoration: underline; }
 
 h3 {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 16pt;
-  COLOR: #009; }
+  font-weight: bolder;
+  font-size: 16pt;
+  color: #009; }
 
 .ArticleHighLight {
-  FONT-WEIGHT: bolder;
-  FONT-SIZE: 12pt;
-  COLOR: #933;
+  font-weight: bolder;
+  font-size: 12pt;
+  color: #933;
   FONT-STYLE: italic; }
 
 .ArticleTextSmall {
-  FONT-SIZE: 8pt;
-  COLOR: black; }
+  font-size: 8pt;
+  color: black; }
 
 .TextBlue {
-  COLOR: mediumblue;
-  TEXT-DECORATION: none; }
+  color: mediumblue;
+  text-decoration: none; }
 
 .TextRed {
-  COLOR: plum;
-  TEXT-DECORATION: none; }
+  color: plum;
+  text-decoration: none; }
 
 .TimesItalicText {
-  FONT-SIZE: 10pt;
-  COLOR: black;
+  font-size: 10pt;
+  color: black;
   font-family: 'Times New Roman'; }
 
 a:active {
-  FONT-WEIGHT: bold;
-  COLOR: #8c2021;
-  TEXT-DECORATION: none; }
+  font-weight: bold;
+  color: #8c2021;
+  text-decoration: none; }
 
 a:link {
-  FONT-WEIGHT: bold;
-  COLOR: #8c2021;
-  TEXT-DECORATION: none; }
+  font-weight: bold;
+  color: #8c2021;
+  text-decoration: none; }
 
 a:visited {
-  FONT-WEIGHT: bold;
-  COLOR: blue;
-  TEXT-DECORATION: none; }
+  font-weight: bold;
+  color: blue;
+  text-decoration: none; }
 
 a:hover {
-  FONT-WEIGHT: bold;
-  COLOR: darkblue;
+  font-weight: bold;
+  color: darkblue;
   font-family: Verdana, Arial, sans-serif;
-  TEXT-DECORATION: underline; }
+  text-decoration: underline; }
