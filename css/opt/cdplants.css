@@ -9,6 +9,14 @@ p {
   COLOR: black;
   FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
+h1 {
+  FONT-WEIGHT: bolder;
+  FONT-SIZE: 24px;
+  COLOR: #009;
+  LINE-HEIGHT: normal !important;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
+  TEXT-ALIGN: left; }
+
 h2 {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 18px;
