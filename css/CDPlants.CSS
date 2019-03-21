@@ -1,12 +1,15 @@
 body {
-  font-size: 100%;
+  background: #fefefe;
+  font-family: Verdana, Arial, sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
   color: #0a0a0a;
-  font-family: Verdana, Arial, sans-serif; }
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 100%; }
 
 p {
-  font-weight: normal;
-  font-size: inherit;
-  color: #0a0a0a; }
+  font-size: inherit; }
 
 h1 {
   font-weight: bolder;
@@ -21,11 +24,23 @@ h2 {
   color: #1779ba;
   text-align: left; }
 
+h3 {
+  font-weight: bolder;
+  font-size: 21px;
+  color: #1779ba; }
+
 h4 {
   font-weight: bolder;
   font-size: 14px;
   color: #1779ba;
   text-align: left; }
+
+a {
+  font-weight: bold;
+  color: #1779ba; }
+  a:hover {
+    color: #1468a0;
+    text-decoration: none; }
 
 #footnote {
   color: #0a0a0a;
@@ -61,11 +76,6 @@ h4 {
   font-size: 13px;
   text-decoration: underline; }
 
-h3 {
-  font-weight: bolder;
-  font-size: 21px;
-  color: #1779ba; }
-
 .ArticleHighLight {
   font-weight: bolder;
   font-size: 16px;
@@ -88,10 +98,3 @@ h3 {
   font-size: 13px;
   color: #0a0a0a;
   font-family: 'Times New Roman'; }
-
-a {
-  font-weight: bold;
-  color: #1779ba; }
-  a:hover {
-    color: #1468a0;
-    text-decoration: none; }
