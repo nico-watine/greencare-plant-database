@@ -1,48 +1,44 @@
 body {
   font-size: 10pt;
-  color: black;
+  color: #0a0a0a;
   font-family: Verdana, Arial, sans-serif; }
 
 p {
   font-weight: normal;
   font-size: 10pt;
-  color: black; }
+  color: #0a0a0a; }
 
 h1 {
   font-weight: bolder;
   font-size: 24px;
-  color: #009;
+  color: #1779ba;
   line-height: normal !important;
   text-align: left; }
 
 h2 {
   font-weight: bolder;
   font-size: 18px;
-  color: #009;
+  color: #1779ba;
   text-align: left; }
 
 h3 {
   font-weight: bolder;
   font-size: 16pt;
-  color: #009; }
+  color: #1779ba; }
 
 a:active {
   font-weight: bold;
-  color: #8c2021;
   text-decoration: none; }
 
 a:link {
   font-weight: bold;
-  color: #8c2021;
-  text-decoration: none; }
+  text-decoration: none;
+  color: #1779ba; }
 
 a:visited {
   font-weight: bold;
-  color: blue;
   text-decoration: none; }
 
 a:hover {
   font-weight: bold;
-  color: darkblue;
-  font-family: Verdana, Arial, sans-serif;
   text-decoration: underline; }
