@@ -69,6 +69,7 @@ h3 {
 .ArticleHighLight {
   font-weight: bolder;
   font-size: 12pt;
+  color: #933;
   FONT-STYLE: italic; }
 
 .ArticleTextSmall {
@@ -80,6 +81,7 @@ h3 {
   text-decoration: none; }
 
 .TextRed {
+  color: plum;
   text-decoration: none; }
 
 .TimesItalicText {
