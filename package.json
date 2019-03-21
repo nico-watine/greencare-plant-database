@@ -8,10 +8,8 @@
 	"author": "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)",
 	"license": "MIT",
 	"homepage": "https://github.com/nico-watine/greencare-plant-database#readme",
-	"dependencies": {
-		"uncss": "^0.16.2"
-	},
 	"devDependencies": {
-		"gulp": "^4.0.0"
+		"gulp": "^4.0.0",
+		"gulp-uncss": "^1.0.6"
 	}
 }
