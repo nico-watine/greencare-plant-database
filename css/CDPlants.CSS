@@ -1,34 +1,34 @@
 body {
   FONT-SIZE: 10pt;
   COLOR: black;
-  font-family: Verdana, Arial, sans-serif; }
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
 p {
   FONT-WEIGHT: normal;
   FONT-SIZE: 10pt;
   COLOR: black;
-  font-family: Verdana, Arial, sans-serif; }
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
 h1 {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 24px;
   COLOR: #009;
   LINE-HEIGHT: normal !important;
-  font-family: Verdana, Arial, sans-serif;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-ALIGN: left; }
 
 h2 {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 18px;
   COLOR: #009;
-  font-family: Verdana, Arial, sans-serif;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-ALIGN: left; }
 
 h4 {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 14px;
   COLOR: #009;
-  font-family: Verdana, Arial, sans-serif;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-ALIGN: left; }
 
 #footnote {
@@ -39,25 +39,25 @@ h4 {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 12pt;
   COLOR: #060;
-  font-family: Verdana, Arial, sans-serif;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-ALIGN: left; }
 
 .footer {
   FONT-SIZE: 8pt;
   COLOR: black;
-  font-family: Verdana, Arial, sans-serif; }
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
 .ArticleHead {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 20pt;
   COLOR: #093;
-  font-family: Verdana, Arial, sans-serif;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-ALIGN: left; }
 
 .ArticleText {
   FONT-SIZE: 10pt;
   COLOR: black;
-  font-family: Verdana, Arial, sans-serif; }
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
 .MenuComment {
   FONT-SIZE: 8pt;
@@ -73,19 +73,19 @@ h3 {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 16pt;
   COLOR: #009;
-  font-family: Verdana, Arial, sans-serif; }
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
 .ArticleHighLight {
   FONT-WEIGHT: bolder;
   FONT-SIZE: 12pt;
   COLOR: #933;
   FONT-STYLE: italic;
-  font-family: Verdana, Arial, sans-serif; }
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
 .ArticleTextSmall {
   FONT-SIZE: 8pt;
   COLOR: black;
-  font-family: Verdana, Arial, sans-serif; }
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
 .TextBlue {
   COLOR: mediumblue;
@@ -98,28 +98,28 @@ h3 {
 .TimesItalicText {
   FONT-SIZE: 10pt;
   COLOR: black;
-  font-family: Verdana, Arial, sans-serif; }
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman'; }
 
 a:active {
   FONT-WEIGHT: bold;
   COLOR: #8c2021;
-  font-family: Verdana, Arial, sans-serif;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-DECORATION: none; }
 
 a:link {
   FONT-WEIGHT: bold;
   COLOR: #8c2021;
-  font-family: Verdana, Arial, sans-serif;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-DECORATION: none; }
 
 a:visited {
   FONT-WEIGHT: bold;
   COLOR: blue;
-  font-family: Verdana, Arial, sans-serif;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-DECORATION: none; }
 
 a:hover {
   FONT-WEIGHT: bold;
   COLOR: darkblue;
-  font-family: Verdana, Arial, sans-serif;
+  FONT-FAMILY: Verdana, Arial, 'Times New Roman';
   TEXT-DECORATION: underline; }
