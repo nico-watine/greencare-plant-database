@@ -87,21 +87,9 @@ h3 {
   color: #0a0a0a;
   font-family: 'Times New Roman'; }
 
-a:active {
-  font-weight: bold;
-  text-decoration: none; }
-
 a {
   font-weight: bold;
-  text-decoration: none;
   color: #1779ba; }
   a:hover {
-    color: #1468a0; }
-
-a:visited {
-  font-weight: bold;
-  text-decoration: none; }
-
-a:hover {
-  font-weight: bold;
-  text-decoration: underline; }
+    color: #1468a0;
+    text-decoration: none; }

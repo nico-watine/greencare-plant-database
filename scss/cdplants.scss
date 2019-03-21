@@ -109,28 +109,12 @@ h3 {
 	font-family: 'Times New Roman';
 }
 
-a:active {
-	font-weight: bold;
-	text-decoration: none;
-}
-
 a {
 	font-weight: bold;
-	text-decoration: none;
 	color: $blue;
 
 	&:hover {
 		color: $blue-hover;
+		text-decoration: none;
 	}
 }
-
-a:visited {
-	font-weight: bold;
-	text-decoration: none;
-}
-
-a:hover {
-	font-weight: bold;
-	text-decoration: underline;
-}
-
