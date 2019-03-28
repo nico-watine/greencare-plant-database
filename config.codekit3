@@ -58,27 +58,27 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/css/CDPlants-min.css",
+		"oAP": "/css/cdplants-min.css",
 		"oF": 0,
 		"oS": 1
 		},
-	"/css/Disease.css": {
+	"/css/disease.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/css/Disease-min.css",
+		"oAP": "/css/disease-min.css",
 		"oF": 0,
 		"oS": 1
 		},
-	"/css/Links.css": {
+	"/css/links.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/css/Links-min.css",
+		"oAP": "/css/links-min.css",
 		"oF": 0,
 		"oS": 1
 		},
