@@ -62,6 +62,26 @@
 		"oF": 0,
 		"oS": 1
 		},
+	"/css/disease.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/disease-min.css",
+		"oF": 0,
+		"oS": 1
+		},
+	"/css/links.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/links-min.css",
+		"oF": 0,
+		"oS": 1
+		},
 	"/css/opt/cdplants.css": {
 		"aP": 1,
 		"bl": 0,
