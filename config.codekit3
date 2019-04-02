@@ -58,7 +58,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/css/cdplants-min.css",
+		"oAP": "/css/CDPlants-min.css",
 		"oF": 0,
 		"oS": 1
 		},
@@ -68,7 +68,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/css/disease-min.css",
+		"oAP": "/css/Disease-min.css",
 		"oF": 0,
 		"oS": 1
 		},
@@ -78,7 +78,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/css/links-min.css",
+		"oAP": "/css/Links-min.css",
 		"oF": 0,
 		"oS": 1
 		},
